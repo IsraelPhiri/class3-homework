@@ -1,0 +1,5 @@
+Docker container is a software that allows one to package of code and 
+all it's applications and support tools it needs to run quickly.Compared to VMware, it is more compact because it virtualizes 
+soft rather than part of hardware.I would use Docker for group all my 
+tools such as Alteryx, PyCharm Editor,Python3 etc. It would be a nice 
+one-stop-shop.
